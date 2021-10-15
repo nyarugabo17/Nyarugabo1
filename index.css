@@ -1,0 +1,28 @@
+h2{
+    color: blueviolet;
+    text-align: center;
+    width: 100%;
+}
+h1{
+    color: red;
+    text-align: center;
+    width: 100%;
+}
+h3{
+    color: silver;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    text-align: center;
+    color: springgreen;
+
+}
+p{
+    font-family: sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+body{
+    background-image: url("web.jpg");
+}
