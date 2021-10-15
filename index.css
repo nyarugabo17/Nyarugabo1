@@ -1,5 +1,5 @@
 h2{
-    color: blueviolet;
+    color:white;
     text-align: center;
     width: 100%;
 }
@@ -15,7 +15,7 @@ h3{
 }
 h4{
     text-align: center;
-    color: springgreen;
+    color: white;
 
 }
 p{
@@ -24,5 +24,11 @@ p{
     text-align: center;
 }
 body{
-    background-image: url("web.jpg");
+    background-image: url("jeb.jpg")
+    
+    
+    ;
+}
+li{
+    color: white;
 }
