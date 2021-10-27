@@ -31,4 +31,11 @@ body{
 }
 li{
     color: white;
+    
+}
+
+ul {
+    text-align: center;
+    font-size: 50px;
+    word-spacing: 20px;
 }
